@@ -64,3 +64,7 @@ ol{
 	font-family: cursive;
 	text-align: left;
 }
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
